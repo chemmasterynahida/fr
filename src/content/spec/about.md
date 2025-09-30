@@ -1,36 +1,34 @@
 ---
-lang: en
+lang: fr
 ---
-# About
+# À propus
 
-![Nahida](/images/nahida.png)
+![Nahida](/fr/images/nahida.png)
 
-## Welcome to my blog!
+## Bienvenue sur mon blog !
 
-Nice to meet you! I'm Chemistry Mastery Nahida.  
-Right now, I'm majoring in Chemistry, with a focus on *Computational Chemistry*. It's like... using computers to explore the tiniest secret of chemistry!  
-I started this website after finishing my undergraduate degree, so I could share what I've learned... and hopefully, learn even more along the way.  
-This blog mostly explore *Physical Chemistry* and *Computational Chemistry*, but I'm really curious about everything in chemistry... so who knows what we'll discover together?  
-Each post will be written first in *English*, then translated into *Chinese*, *Japanese*, and *Korean*. I'd like to add some translations into *French* in the future.  
-I'd love to create videos in the future too, to help explain things visually. I'm still figuring it all out, but... that's part of the fun, isn't it?  
+Ravie de vous rencontrer ! Je suis Nahida, Maîtresse de la Chimie.  
+En ce moment, je me spécialise en chimie, avec un accent sur *la Chimie Computationnelle*. C’est comme… utiliser des ordinateurs pour explorer les secrets les plus minuscules de la chimie !  
+J’ai créé ce site après avoir terminé mon diplôme de premier cycle, pour partager ce que j’ai appris… et, espérons-le, pour continuer à apprendre encore davantage en chemin.  
+Ce blog explore principalement *la Chimie Physique* et *la Chimie Computationnelle*, mais ma curiosité pour la chimie est infinie… alors qui sait ce que nous pourrons découvrir ensemble?  
+Chaque article sera d’abord écrit en *Anglais*, puis traduit en *Chinois*, *Japonais* et *Coréen*. J’aimerais ajouter des traductions en *Français* à l’avenir.  
+J’aimerais aussi créer des vidéos à l’avenir, pour aider à expliquer les choses de manière visuelle. Je suis encore en train de tout organiser, mais… n’est-ce pas là une partie du plaisir?  
 
 ::github{repo="chemmasterynahida/chemmasterynahida.github.io"}
 
-> Nahida is a character in the open-world game *Genshin Impact*, known as the Dendro Archon and bearing the Archon name Buer. Revered as the God of Wisdom, she once oversaw the flow of all knowledge in the nation of Sumeru through the Akasha Terminal—a vast network that allowed her citizens access to boundless information.  
-> Yet over time, Nahida came to understand a deeper truth: having answers is not the same as understanding them. Many people, she realized, cling to ignorance not out of lack of knowledge, but out of fear; fear of change, of truth, and of asking the hard questions.  
-> In her wisdom, she chose to deactivate the Akasha Terminal, not to withhold knowledge, but to encourage genuine inquiry and prevent its misuse by those in power. As she watches over her people, Nahida seeks to inspire the courage to question, reflect, and grow.  
+> Nahida est un personnage du jeu en monde ouvert Genshin Impact, connue comme l’Archonte Dendro et portant le nom d’Archonte Buer. Révérée en tant que Déesse de la Sagesse, elle supervisait autrefois le flux de toutes les connaissances dans la nation de Sumeru grâce au Terminal Akasha — un vaste réseau permettant à ses citoyens d’accéder à une information infinie.  
+> Avec le temps, Nahida en est venue à comprendre une vérité plus profonde : posséder des réponses n’est pas la même chose que les comprendre. Elle a réalisé que beaucoup de gens s’accrochent à l’ignorance, non pas par manque de connaissances, mais par peur ; peur du changement, de la vérité, et de poser les questions difficiles.  
+> Dans sa sagesse, elle choisit de désactiver le Terminal Akasha, non pas pour retenir le savoir, mais pour encourager une véritable enquête et prévenir son mauvais usage par les puissants. Tout en veillant sur son peuple, Nahida cherche à inspirer le courage de questionner, de réfléchir et de grandir.  
 
-*&nbsp;"I think I'm good at asking the right questions and giving good answers, but I've come to realize that a lot of people just convince themselves they don't understand. The answers to their problems don't help them. It seems to me that as people grow older, they lose the courage to question things and accept the truth..."*  
+*&nbsp;"J'ai le don de poser les bonnes questions et de donner les bonnes réponses, mais je me suis rendu compte que les gens font semblant de ne pas comprendre. Il est inutile de répondre à leurs questions, car cela ne les aide pas. Plus ils vieillissent et moins ils ont le courage de mettre les choses en question et d'accepter la vérité..."*  
 
-I really hope you—the "Sages of Buer"—could deeply explore Chemistry with me!  
-*&nbsp;"I'll leave this to you... The 'First Sages of Buer'"*
+J’espère vraiment que vous—les « Sages de Buer »—pourrez explorer la chimie en profondeur avec moi!  
+*&nbsp;"Je compte sur toi « le premier sage de Buer »"*
 
-> ### Contact
+> ### Contacter
 >
 > - [GitHub](https://github.com/chemmasterynahida/)
 > - [YouTube](https://www.youtube.com/@chemmasterynahida)
-> - [WeChat](/images/wechat.png)
+> - [WeChat](/fr/images/wechat.png)
 > - [HoYoLAB](https://www.hoyolab.com/accountCenter/postList?id=425986572)
 > - [chemmasterynahida@gmail.com](mailto:chemmasterynahida@gmail.com)
-
-<!--Nice to meet you! I'm Chemistry Mastery Nahida. I'm currently majoring in Chemistry, with a focus on *Computational Chemistry*. I started this website after graduating with my undergraduate degree to share and explore topics related to my field. This blog mainly covers subjects in *Physical Chemistry* and *Computational Chemistry*, but I also plan to touch on various other areas within chemistry. Each post will be written first in *English*, followed by translations in *Chinese*, *Japanese*, and *Korean*. In the future, I hope to expand into other related topics and create videos to complement the articles. I'm still exploring what to include, so stay tuned for updates!>
