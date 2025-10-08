@@ -7,8 +7,8 @@ lang: fr
 
 ## Bienvenue sur mon blog !
 
-Ravie de vous rencontrer ! Je suis Nahida, Maîtresse de la Chimie.  
-En ce moment, je me spécialise en chimie, avec un accent sur *la Chimie Computationnelle*. C’est comme… utiliser des ordinateurs pour explorer les secrets les plus minuscules de la chimie !  
+Ravie de vous rencontrer ! Je suis Nahida Maîtrise Chimie.  
+En ce moment, je me professionel en chimie, avec un accent sur *la Chimie Computationnelle*. C’est comme… utiliser des ordinateurs pour explorer les secrets les plus minuscules de la chimie !  
 J’ai créé ce site après avoir terminé mon diplôme de premier cycle, pour partager ce que j’ai appris… et, espérons-le, pour continuer à apprendre encore davantage en chemin.  
 Ce blog explore principalement *la Chimie Physique* et *la Chimie Computationnelle*, mais ma curiosité pour la chimie est infinie… alors qui sait ce que nous pourrons découvrir ensemble?  
 Chaque article sera d’abord écrit en *Anglais*, puis traduit en *Chinois*, *Japonais* et *Coréen*. J’aimerais ajouter des traductions en *Français* à l’avenir.  
