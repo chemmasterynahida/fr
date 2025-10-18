@@ -12,14 +12,14 @@ draft: false
 Bonjour~ C’est **Nahida Maîtrise Chimie**.  
 
 Je suis vraiment ravie que tu sois ici pour apprendre avec moi !  
-Avant de commencer, j’aimerais que tu aies déjà une petite familiarité avec quelques matières du lycée :  
+Avant de commencer, j’aimerais que tu aies déjà une petite familiarité avec quelques matières :  
 
 * **Mathématiques du lycée**  
   * Calcul différentiel et intégral  
-  * Algèbre linéaire  
   * Statistiques  
 * **Physique du lycée**  
 * **Chimie du lycée**  
+* Algèbre linéaire  
 
 Si l’un de ces sujets te semble difficile, ne t’inquiète surtout pas.  
 Laisse-moi simplement un petit commentaire, et je préparerai une leçon spéciale pour t’aider à bien les comprendre.  

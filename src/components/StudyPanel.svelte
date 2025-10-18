@@ -14,7 +14,7 @@ tags = params.has("tag") ? params.getAll("tag") : [];
 categories = params.has("category") ? params.getAll("category") : [];
 const uncategorized = params.get("uncategorized");
 
-let allowedCategories = ["Chimie Quantique", "Chimie Physique", "Chimie Computationnelle", "Informatique Quantique"];
+let allowedCategories = ["Quantum Chemistry", "Physical Chemistry", "Computational Chemistry", "Quantum Computing"];
 
 interface Post {
 	slug: string;
@@ -82,7 +82,9 @@ onMount(async () => {
 
 	const groupedPostsArray = Object.keys(grouped).map((category) => ({
 		category,
-		posts: grouped[category],
+		posts: grouped[category].sort((a, b) =>
+		a.data.title.localeCompare(b.data.title),
+	),
 	}));
 
 	groupedPostsArray.sort((a, b) => a.category.localeCompare(b.category));

@@ -225,9 +225,8 @@ Il étudia l’entropie et la thermodynamique, et grâce à un raisonnement él�
 > $$(\frac{\partial^{2} S}{\partial U^{2}})^{-1}\propto U^{2}~(RJ)$$  
 > Planck combina les deux polynômes ainsi :  
 > $$(\frac{\partial^{2} S}{\partial U^{2}})^{-1}=C_{1}U+C_{2}U^{2}$$  
-> Il conclut que l’équation pouvait prendre la forme :  
-> $$U=\frac{C_{1}C_{2}}{Ce^{C_{1}T}-1}$$  
-> où C est la constante d’intégration. Planck fixa cette constante à 1.
+> Il conclut que l’équation de la longueur d'onde pouvait prendre la forme :  
+> $$U=\frac{C\lambda^{-5}}{e^{c/\lambda T}-1}$$  
 
 ### Décembre 1900 : L’Énergie Discrète
 
@@ -250,7 +249,7 @@ $N$: nombre d’ondes lumineuses
 Puis, avec une touche de magie mathématique et en s’appuyant sur le principe de Boltzmann, il relia cela à l’entropie :  
 $$S=k\cdot ln(W)$$  
 $S$: entropie absolue du système  
-$W$: "*Wahrscheinlichkeit*", nombre de micro-états
+$W$: "*Wahrscheinlichkeit*", nombre de micro-états  
 
 > Rappelons l’équation de la thermodynamique :  
 > $$\frac{1}{T}=\frac{\partial S}{\partial U}=k\frac{\partial(ln(W))}{\partial U}$$  
@@ -261,15 +260,20 @@ $W$: "*Wahrscheinlichkeit*", nombre de micro-états
 > Pour une particule d’énergie, l’entropie est :  
 > $$\frac{k}{\epsilon}(ln(U+\epsilon)-ln(U))=\frac{1}{T}$$  
 > Par conséquent :  
-> $$U=\frac{\epsilon}{e^{\epsilon/kT}-1}=\frac{hv}{e^{hv/kT}-1}$$
+> $$U=\frac{\epsilon}{e^{\epsilon/kT}-1}=\frac{hv}{e^{hv/kT}-1}$$  
 
 Et ainsi naquit son résultat révolutionnaire :  
-$$U=\frac{\epsilon}{e^{\epsilon/kT}-1}=\frac{hv}{e^{hv/kT}-1}$$
+$$U=\frac{\epsilon}{e^{\epsilon/kT}-1}=\frac{hv}{e^{hv/kT}-1}$$  
 
 C’est l’équation célèbre de Planck. Chaque onde lumineuse ne peut posséder de l’énergie que par multiples entiers de $h\nu$.  
 Elle révèle que l’énergie n’est pas continue, mais composée de quanta discrets.  
+
+Il a reçu le prix Nobel de physique en 1918 pour sa découverte des quanta d'énergie.  
+
+> *Le prix Nobel de physique 1918 a été décerné à Max Karl Ernst Ludwig Planck « en reconnaissance des services qu'il a rendus à l'avancement de la physique par sa découverte des quanta d'énergie »*
+
 À partir de ce moment, l’humanité toucha pour la première fois le seuil du monde quantique. À cet instant, la lumière de la connaissance brilla doucement dans le ciel nocturne de la science.  
-C’était l’aube de l’ère quantique et le premier aperçu des secrets les plus infimes de l’univers.
+C’était l’aube de l’ère quantique et le premier aperçu des secrets les plus infimes de l’univers.  
 
 ## Références
 
