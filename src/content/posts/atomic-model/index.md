@@ -551,21 +551,21 @@ Beaucoup des esprits brillants ayant bâti le modèle atomique furent honorés p
 
 |Scientifique|Prix Nobel|Année|Pour|
 |:---:|:---:|:---:|:---:|
-|Lorentz, Zeeman|Physics|1902|Zeeman effect|
-|J.J.Thomson|Physics|1906|Conduction of electricity by gas|
-|Richards|Chemistry|1914|Atomic weight|
-|Planck|Physics|1918|Quantum hypothesis|
-|Stark|Physics|1919|Stark effect|
-|Bohr|Physics|1922|Bohr model|
-|Aston|Chemistry|1922|Isotopes|
-|Millikan|Physics|1923|Elementary charge|
-|de Broglie|Physics|1929|Matter waves|
-|Heisenberg|Physics|1932|Modern quantum mechanics|
-|Schrödinger, Dirac|Physics|1933|Modern atomic model|
-|Chadwick|Physics|1935|Discovery of neutron|
-|Davisson, G.P.Thomson|Physics|1937|interference of electron|
-|Pauli|Physics|1945|Exclusion principle|
-|Born|Physics|1954|Statistical interpretation of wavefunction|
+|Lorentz, Zeeman|Physique|1902|Effect Zeeman|
+|J.J.Thomson|Physique|1906|Conduction de l’électricité dans les gaz|
+|Richards|Chimie|1914|Poids atomiques|
+|Planck|Physique|1918|Hypothèse des quanta|
+|Stark|Physique|1919|Effet Stark|
+|Bohr|Physique|1922|Modèle de Bohr|
+|Aston|Chimie|1922|Isotopes|
+|Millikan|Physique|1923|Charge élémentaire|
+|de Broglie|Physique|1929|Ondes de matière|
+|Heisenberg|Physique|1932|Mécanique quantique moderne|
+|Schrödinger, Dirac|Physique|1933|Modèle atomique moderne|
+|Chadwick|Physique|1935|Découverte du neutron|
+|Davisson, G.P.Thomson|Physique|1937|Interférence des électrons|
+|Pauli|Physique|1945|Principe d'exclusion|
+|Born|Physique|1954|Interprétation statistique de la fonction d’onde|
 
 ---
 
@@ -587,7 +587,7 @@ Quand nous combinons les restrictions imposées par les nombres quantiques $n$, 
 
 Pour bien comprendre ce phénomène, il nous faut quelques idées clés (que nous explorerons plus en détail plus tard) :  
 
-* Henry Moseley a découvert que la périodicité dépend du n**uméro atomique** (le nombre de protons), et non simplement de la masse atomique.  
+* Henry Moseley a découvert que la périodicité dépend du **numéro atomique** (le nombre de protons), et non simplement de la masse atomique.  
 * Après l’effet Zeeman, les raies spectrales se séparent dans un champ magnétique intense, révélant **deux états de spin** pour chaque $m$.  
 * Le principe d’exclusion de Pauli nous dit que deux électrons ne peuvent pas occuper le **même état quantique**.  
 * Le principe de Aufbau explique comment les électrons remplissent les orbitales, du **niveau le plus bas** vers le **plus haut en énergie**.  
@@ -603,8 +603,8 @@ En appliquant ces idées, un motif fascinant apparaît :
 * Le premier **5s** au 37ᵉ,  
 * Le premier **6s** au 55ᵉ… et ainsi de suite.  
 
-Ce sont les **métaux alcalins** : Li, Na, K, Rb, Cs…
-Ils partagent des **propriétés chimiques semblables**, car ils ont tous **le même nombre d’électrons de valence**.
+Ce sont les **métaux alcalins** : Li, Na, K, Rb, Cs…  
+Ils partagent des **propriétés chimiques semblables**, car ils ont tous **le même nombre d’électrons de valence**.  
 
 Nous approfondirons ce sujet quand nous parlerons des **atomes à plusieurs électrons**.  
 
