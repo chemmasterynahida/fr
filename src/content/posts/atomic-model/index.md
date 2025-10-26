@@ -113,7 +113,7 @@ Chaque particule alpha porte une charge de **+2e**, et sa masse est presque comp
 Pour observer comment ces particules interagissent avec la matière, Geiger et Marsden dirigèrent un faisceau de particules alpha sur une **feuille d’or extrêmement fine**,  
 épaisse d’à peine $10^{-7}$ mètres.  
 D’après le **modèle du “pudding aux prunes” de Thomson**, tout devait être simple :  
-si l’atome ressemblait à une douce gelée chargée positivement, les particules alpha devaient le traverser presque sans déviation — comme de petites billes traversant un nuage de brouillard. ☁️  
+si l’atome ressemblait à une douce gelée chargée positivement, les particules alpha devaient le traverser presque sans déviation — comme de petites billes traversant un nuage de brouillard.  
 
 Mais ce qu’ils observèrent… fut **stupéfiant**.  
 Certaines particules alpha furent fortement déviées, et quelques-unes rebondirent même **en sens inverse** !  
