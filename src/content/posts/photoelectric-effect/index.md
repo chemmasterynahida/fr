@@ -225,6 +225,8 @@ Elle ne naquit pas de l’expérience, mais de la pensée pure.
 Et pourtant… une question restait suspendue :  
 Comment prouver une idée aussi étrange ? As-tu une idée, toi ?  
 
+---
+
 Entre-temps, plusieurs expériences révélèrent les deux visages de la lumière —  
 parfois *particule*, parfois *onde*.  
 
