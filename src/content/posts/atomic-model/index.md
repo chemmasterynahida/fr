@@ -113,7 +113,7 @@ Chaque particule alpha porte une charge de **+2e**, et sa masse est presque comp
 Pour observer comment ces particules interagissent avec la matière, Geiger et Marsden dirigèrent un faisceau de particules alpha sur une **feuille d’or extrêmement fine**,  
 épaisse d’à peine $10^{-7}$ mètres.  
 D’après le **modèle du “pudding aux prunes” de Thomson**, tout devait être simple :  
-si l’atome ressemblait à une douce gelée chargée positivement, les particules alpha devaient le traverser presque sans déviation — comme de petites billes traversant un nuage de brouillard. ☁️  
+si l’atome ressemblait à une douce gelée chargée positivement, les particules alpha devaient le traverser presque sans déviation — comme de petites billes traversant un nuage de brouillard.  
 
 Mais ce qu’ils observèrent… fut **stupéfiant**.  
 Certaines particules alpha furent fortement déviées, et quelques-unes rebondirent même **en sens inverse** !  
@@ -634,10 +634,10 @@ $$\lambda=\frac{h}{p}$$
 
 > De Broglie s’intéressa aussi à la vitesse de propagation de l’**énergie** de l’onde, appelée **vitesse de groupe** :  
 > $$v_{g}=\frac{d\omega}{dk}$$  
-> En différenciant, on obtient :  
+> Pour un observateur, la pulsation et le vecteur d’onde sont :  
 > $$\omega=2\pi\nu=\frac{2\pi mc^{2}}{h\sqrt{1-\beta^{2}}}$$  
 > $$k=2\pi\lambda=\frac{2\pi m\beta c}{h\sqrt{1-\beta^{2}}}$$  
-> Differentiating gives:  
+> En différenciant, on obtient :  
 > $$d\omega=\frac{2\pi mc^{2}}{h}\frac{\beta}{(1-\beta^{2})^{3/2}}d\beta$$  
 > $$dk=\frac{2\pi mc}{h(1-\beta^{2})^{3/2}}d\beta$$  
 > Donc, la vitesse de groupe est simplement :  
