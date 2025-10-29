@@ -514,6 +514,10 @@ $$2\pi r=n\lambda=\frac{nh}{mv}=n\hbar$$
 Ce qui correspond parfaitement à la quantification du moment angulaire de Bohr :  
 $$mvr=n\hbar$$  
 
+Ainsi, la règle autrefois mystérieuse du modèle de Bohr trouva enfin sa justification dans la nature ondulatoire de la matière.  
+
+## Modèle Atomique Moderne
+
 En 1925, **Erwin Schrödinger** formula une équation décrivant la **fonction d’onde** de la matière — un outil mathématique qui murmure les schémas cachés du mouvement des électrons.  
 
 Un an plus tard, **Max Born** proposa une interprétation étonnante : la fonction d’onde ne nous révèle pas les trajectoires exactes,  
