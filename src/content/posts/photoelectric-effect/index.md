@@ -1,8 +1,8 @@
 ---
-title: 1.2. Effet Photoélectrique et Nature de la Lumière
+title: "Chimie Quantique: 1.2. Effet Photoélectrique et Nature de la Lumière"
 published: 2025-10-16
 description: "Comment la théorie d’Einstein a-t-elle transformé notre compréhension de la lumière ?"
-image: "photoelectric-effect.png"
+image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/photoelectric-effect.png"
 tags: ["Chimie Quantique"]
 category: Chimie Quantique
 lang: fr
@@ -68,7 +68,7 @@ Après l’observation de Hertz, d’autres chercheurs cherchèrent à comprendr
 Parmi eux, **Aleksandr Stoletov** et **Philipp Lenard** menèrent les études les plus précises.  
 Ils effectuèrent des mesures quantitatives minutieuses — et Lenard découvrit que la lumière ultraviolette pouvait même **ioniser les gaz**, libérant les électrons de leurs liens invisibles.  
 
-![Expérience de Lenard](lenard-experiment.png "Expérience de Lenard")  
+![Lenard's experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/lenard-experiment.png "lenard's experiment")  
 
 Voici *l’appareil de Lenard*. Il observa avec soin la manière dont la lumière faisait s’échapper les électrons des surfaces métalliques.  
 
@@ -76,7 +76,7 @@ Pour étudier leur comportement, il utilisa ce qu’on appelle le **potentiel d�
 Lorsque le métal émet des électrons, on peut appliquer une tension négative pour les repousser — comme si l’on dressait une petite barrière invisible.  
 Plus cette tension est forte, plus un électron doit posséder d’énergie pour la franchir et s’échapper.  
 
-![Observation de Lenard](lenard-stop-potential.jpg "Observation de Lenard")  
+![Lenard's observation](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/lenard-stop-potential.jpg "Lenard's observation")  
 
 À travers ses expériences, Lenard fit une découverte des plus intrigantes :  
 le **potentiel d’arrêt** augmentait lorsque la **fréquence de la lumière** croissait.  
@@ -89,7 +89,7 @@ Un petit indice, peut-être… mais un indice qui allait bientôt inspirer *Eins
 D’après l’**expérience des deux fentes de Young** et la **théorie de Maxwell**, la lumière se comporte comme une onde électromagnétique.  
 Si cela est vrai… que devrions-nous observer ?  
 
-![Double fente](Double-slit.png "Expérience des deux fentes")  
+![Double slit](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/Double-slit.png "Double-slit experiment")  
 
 Lorsque la lumière éclaire un métal, ses ondes devraient **transférer graduellement leur énergie** aux électrons du matériau.  
 Une fois qu’un électron accumule assez d’énergie, il devrait pouvoir s’échapper de la surface — comme un petit nageur profitant d’une vague assez puissante pour le porter jusqu’au rivage.  
@@ -118,7 +118,7 @@ Il se posa alors une question des plus téméraires :
 Planck avait déjà proposé que l’énergie ne s’écoule pas de manière continue, mais qu’elle est émise en petits paquets — chacun possédant une énergie de $h\nu$.  
 Ainsi, si l’on imagine la lumière comme un ensemble de ces **quanta d’énergie**, chaque particule de lumière — ou **photon**, comme on l’appelle aujourd’hui — pourrait heurter un électron à l’intérieur du métal.  
 
-![Effet photoélectrique](photoelectric-effect.png "Effet photoélectrique")  
+![Photoelectric effect](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/photoelectric-effect.png "Photoelectric effect")  
 
 Dans le métal, les électrons sont retenus par les forces attractives des atomes.  
 Pour s’en libérer, le photon incident doit lui donner une énergie suffisante pour briser ce lien.  
@@ -149,7 +149,7 @@ Des années plus tard, en 1916, *Robert Millikan* mit à l’épreuve la théori
 Il mesura l’énergie des électrons émis pour différentes fréquences de lumière… et découvrit que la relation était **parfaitement linéaire**, tout comme Einstein l’avait prédit.  
 La pente de cette droite correspondait précisément à la constante $h$ elle-même !  
 
-![Expérience de Millikan](kinetic-energy.png "Expérience de Millikan")  
+![Millikan's experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/photoelectric-effect/kinetic-energy.png "Millikan's experiment")  
 
 Une seule équation, une seule idée — et soudain, la lumière ne fut plus seulement une onde.  
 Elle pouvait être **à la fois onde et particule**, dansant gracieusement entre deux vérités.  

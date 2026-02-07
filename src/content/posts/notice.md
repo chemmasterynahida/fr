@@ -26,4 +26,4 @@ Laisse-moi simplement un petit commentaire, et je préparerai une leçon spécia
 Je suis certaine que tu pourras les saisir facilement — même avec une compréhension de niveau collège.  
 Apprendre, c’est comme faire pousser une graine : avec un peu de temps et de curiosité, elle finit toujours par fleurir.  
 
-![nahida](jing-shan-she-shou-ming-lun.png)
+![nahida](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/jing-shan-she-shou-ming-lun.png)

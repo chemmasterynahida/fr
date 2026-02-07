@@ -1,8 +1,8 @@
 ---
-title: 1.1. Rayonnement du corps noir
+title: "Chimie Quantique: 1.1. Rayonnement du corps noir"
 published: 2025-10-05
 description: "Quel problème posait la théorie du rayonnement du corps noir, et comment a-t-il été résolu?"
-image: "planck.png"
+image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/planck.png"
 tags: ["Chimie Quantique"]
 category: Chimie Quantique
 lang: fr
@@ -18,7 +18,7 @@ Aujourd’hui, nous commençons notre tout premier cours de *Chimie quantique* �
 
 Pour commencer, il faut d’abord comprendre ce que signifie le mot *quantique*.  
 Tu l’as sûrement déjà entendu, n’est-ce pas ? Il sonne un peu futuriste — comme quelque chose venu d’un laboratoire de haute technologie. Les ordinateurs quantiques, par exemple, sont aujourd’hui très célèbres !  
-![quantum computer](qc.jpg "Ordinateur quantique de Google")
+![quantum computer](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/qc.jpg "Quantum Computer by Google")
 
 Mais qu’est-ce qu’un *quantum*, au juste ?  
 Si tu penses au mot *quantité*, tu es déjà sur la bonne voie ! Le mot *quantum* vient de là, et signifie une petite *portion* ou *unité* de quelque chose.  
@@ -63,7 +63,7 @@ Mais quelque chose n’allait pas du tout...
 À haute fréquence, cette équation prédisait une énergie **infinie**!  
 Les physiciens appelèrent cela la **« catastrophe ultraviolette »**.  
 
-![ultraviolet catastrophe](planck.png "\"Catastrophe ultraviolette\"")  
+![ultraviolet catastrophe](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/planck.png "\"Ultraviolet catastrophe\"")  
 
 La loi de Rayleigh–Jeans correspondait bien aux expériences à **basse fréquence**, tandis que celle de Wien fonctionnait à **haute fréquence** — mais aucune des deux ne racontait l’histoire complète.  
 
@@ -127,7 +127,49 @@ Voyons maintenant comment l’équation de Planck relie ces deux lois.
 
 ### Loi de Stefan–Boltzmann
 
-En intégrant la loi de Planck sur toutes les fréquences, on obtient l’énergie totale émise :  
+En intégrant la loi de Planck sur toutes les fréquences, on obtient l’énergie totale émise.  
+On peut également en tirer un rayonnement de surface.  
+
+**Loi de Stefan–Boltzmann**  
+$$M=\sigma T^{4}=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}T^{4}$$  
+$$\sigma=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}=5.67\times10^{-8}~W/m^{2}\cdot K^{4}$$  
+
+Et en effet, la constante $\sigma$ correspond parfaitement aux résultats expérimentaux ~  
+
+### Loi du déplacement de Wien
+
+La loi du déplacement de Wien décrit la longueur d’onde (ou la fréquence) à laquelle le rayonnement est maximal.  
+En trouvant la longueur d’onde où le rayonnement atteint son maximum, on obtient :  
+
+**Loi du déplacement de Wien**  
+$$\lambda_{pic}=\frac{b}{T}\approx\frac{hc}{4.9651kT}=\frac{2.90~mm/K}{T}$$  
+
+Ainsi, plus un objet est chaud, plus la longueur d’onde de sa lumière est courte — du rouge, vers le jaune, puis le blanc-bleu.  
+
+### $\nu \rightarrow 0$
+
+La loi de **Rayleigh–Jeans** décrit bien les résultats expérimentaux pour les basses fréquences.  
+Pour les petites valeurs de $\nu$, la loi de Planck doit tendre vers celle de Rayleigh–Jeans.  
+
+$$\lim_{\nu\rightarrow0}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu=\frac{8\pi kT\nu^{2}}{c^{3}}d\nu$$  
+
+Pour les faibles fréquences, la loi de Planck se réduit donc à la loi de Rayleigh–Jeans.  
+
+### $\nu \rightarrow \infty$
+
+La loi de **Wien** explique bien les résultats expérimentaux pour les hautes fréquences.  
+Pour les grandes valeurs de $\nu$, la loi de Planck doit tendre vers celle de Wien.  
+
+$$\lim_{\nu\rightarrow\infty}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu=\frac{8\pi h\nu^{3}}{c^{3}}\cdot e^{-h\nu/kT}d\nu=a\nu^{3}e^{-b\nu/T}$$  
+
+Ainsi, pour les hautes fréquences, la loi de Planck rejoint naturellement la loi de Wien.  
+
+---
+---
+
+## dérivations
+
+### Loi de Stefan–Boltzmann: dérivations
 
 > $$\int du=\int_{0}^{\infty}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu$$  
 > Posons $x=h\nu/kT$ et $dx=hd\nu/kT$ pour le calcul.  
@@ -141,15 +183,8 @@ En intégrant la loi de Planck sur toutes les fréquences, on obtient l’énerg
 > On peut convertir l’énergie volumique en flux à la surface en multipliant par $c/4$.  
 > $$M=E\cdot\frac{c}{4}=\frac{8\pi^{5}k^{4}T^{4}}{15h^{3}c^{3}}\cdot\frac{c}{4}=\frac{2\pi^{5}k^{4}T^{4}}{15h^{3}c^{2}}=\sigma T^{4}$$  
 
-**Loi de Stefan–Boltzmann**  
-$$M=\sigma T^{4}=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}T^{4}$$  
-$$\sigma=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}=5.67\times10^{-8}~W/m^{2}\cdot K^{4}$$  
+### Loi du déplacement de Wien: dérivations
 
-Et en effet, la constante $\sigma$ correspond parfaitement aux résultats expérimentaux ~  
-
-### Loi du déplacement de Wien
-
-> La loi du déplacement de Wien décrit la longueur d’onde (ou la fréquence) à laquelle le rayonnement est maximal.  
 > $$\frac{d(du/d\lambda)}{d\lambda}=0$$  
 > La loi de Planck peut s’exprimer en fonction de la longueur d’onde :  
 > $$\frac{du(\lambda,T)}{d\lambda}=\frac{8\pi hc}{\lambda^{5}}\cdot\frac{1}{e^{hc/\lambda kT}-1}$$  
@@ -161,17 +196,7 @@ Et en effet, la constante $\sigma$ correspond parfaitement aux résultats expér
 > Ainsi, la relation devient :  
 > $$\lambda_{pic}=\frac{b}{T}\approx\frac{hc}{4.9651kT}=\frac{2.90~mm/K}{T}$$  
 
-En trouvant la longueur d’onde où le rayonnement atteint son maximum, on obtient :  
-
-**Loi du déplacement de Wien**  
-$$\lambda_{pic}=\frac{b}{T}\approx\frac{hc}{4.9651kT}=\frac{2.90~mm/K}{T}$$  
-
-Ainsi, plus un objet est chaud, plus la longueur d’onde de sa lumière est courte — du rouge, vers le jaune, puis le blanc-bleu.  
-
-### $\nu \rightarrow 0$
-
-La loi de **Rayleigh–Jeans** décrit bien les résultats expérimentaux pour les basses fréquences.  
-Pour les petites valeurs de $\nu$, la loi de Planck doit tendre vers celle de Rayleigh–Jeans.  
+### $\nu \rightarrow 0$: dérivations
 
 > $$\lim_{\nu\rightarrow0}du(\nu,T)=\lim_{\nu\rightarrow0}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu$$  
 > On sait que la limite suivante est vraie :  
@@ -179,21 +204,11 @@ Pour les petites valeurs de $\nu$, la loi de Planck doit tendre vers celle de Ra
 > Ainsi,  
 > $$\lim_{\nu\rightarrow0}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu=\frac{8\pi kT\nu^{2}}{c^{3}}d\nu$$  
 
-Pour les faibles fréquences, la loi de Planck se réduit donc à la loi de Rayleigh–Jeans.  
-
-### $\nu \rightarrow \infty$
-
-La loi de **Wien** explique bien les résultats expérimentaux pour les hautes fréquences.  
-Pour les grandes valeurs de $\nu$, la loi de Planck doit tendre vers celle de Wien.  
+### $\nu \rightarrow \infty$: dérivations
 
 > $$\lim_{\nu\rightarrow\infty}du(\nu,T)=\lim_{\nu\rightarrow\infty}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu$$  
 > Comme la fonction exponentielle croît très rapidement, on peut approcher $e^{h\nu/kT}-1$ par $e^{h\nu/kT}$.  
 > $$\lim_{\nu\rightarrow\infty}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu=\frac{8\pi h\nu^{3}}{c^{3}}\cdot e^{-h\nu/kT}d\nu=a\nu^{3}e^{-b\nu/T}$$  
-
-Ainsi, pour les hautes fréquences, la loi de Planck rejoint naturellement la loi de Wien.  
-
----
----
 
 ## Idées et Aperçus de Planck
 
@@ -211,7 +226,7 @@ Il étudia l’entropie et la thermodynamique, et grâce à un raisonnement él�
 > Pour ce travail, il appliqua d’abord la thermodynamique. Elle peut s’exprimer ainsi :  
 > $$dU=TdS-PdV$$  
 > L’expérience se déroulait dans une boîte avec un minuscule orifice, donc le volume du système ne change pas.  
-> ![experiment](experiment.jpg "Expérience sur le rayonnement du corps noir")  
+> ![experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/blackbody-radiation/experiment.jpg "Blackbody Radiation Experiment")  
 > Donc la thermodynamique peut s’écrire :  
 > $$dU=TdS,~\frac{\partial S}{\partial U}=\frac{1}{T}$$  
 > Planck considéra ${\partial S}/{\partial U}$ pour les deux lois :  

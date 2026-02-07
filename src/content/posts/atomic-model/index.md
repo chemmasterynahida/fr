@@ -1,8 +1,8 @@
 ---
-title: 1.3. Modèle atomique
+title: "Chimie Quantique: 1.3. Modèle atomique"
 published: 2025-10-24
 description: "Comment la structure de l’atome a été expliquée, et quels obstacles a-t-on dû surmonter ?"
-image: "electron-cloud-model.png"
+image: "https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/electron-cloud-model.png"
 tags: ["Chimie Quantique"]
 category: Chimie Quantique
 lang: fr
@@ -57,12 +57,12 @@ En 1897, **Joseph J. Thomson** commença à étudier un phénomène mystérieux 
 Ces rayons étaient émis par la cathode dans un tube rempli de gaz à basse pression, lorsqu’on y appliquait une haute tension.  
 
 En ajoutant des champs **électriques** et **magnétiques**, Thomson observa quelque chose de fascinant : les rayons **se courbaient** sous leur influence !  
-![magnetic-deflection](magnetic-deflection.png "magnetic-deflection")  
+![Magnetic deflection](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/magnetic-deflection.png "Magnetic deflection")  
 Cette déviation révéla que ces rayons portaient une **charge**, tout comme des particules en mouvement.  
 
 ---
 
-![Thomson's experiment](thomson-equipment.png "Thomson's experiment")  
+![Thomson's experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/thomson-equipment.png "Thomson's experiment")  
 Grâce à des mesures très précises, Thomson découvrit que les rayons se comportaient comme un **flux de particules chargées**.  
 En équilibrant les forces électrique et magnétique — pour que le faisceau reste **parfaitement droit** — il put déterminer le rapport entre la charge et la masse, noté $e/m$.  
 
@@ -84,9 +84,9 @@ Et c’est ainsi que l’**électron** fut découvert.
 En 1905, s’appuyant sur cette découverte, Thomson proposa une nouvelle manière d’imaginer l’atome.  
 Il suggéra que les électrons négatifs étaient incrustés dans une sphère de **charge positive**,  
 un peu comme des raisins dispersés dans un pudding.  
-![plum pudding](pudding.jfif "plum pudding")  
+![plum pudding](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/pudding.jfif "plum pudding")  
 Il appela cela le **modèle du pudding aux prunes** (*Plum Pudding Model*).  
-![plum pudding model](plum-pudding-model.jpg "plum pudding model")  
+![plum pudding model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/plum-pudding-model.jpg "plum pudding model")  
 
 Au début, ce modèle paraissait raisonnable — les électrons pouvaient y être répartis harmonieusement, chacun oscillant doucement dans la “gelée” chargée positivement.  
 Mathématiquement, cela semblait stable… mais la physique, elle, en décida autrement.  
@@ -117,7 +117,7 @@ si l’atome ressemblait à une douce gelée chargée positivement, les particul
 
 Mais ce qu’ils observèrent… fut **stupéfiant**.  
 Certaines particules alpha furent fortement déviées, et quelques-unes rebondirent même **en sens inverse** !  
-![Geiger Marsden experiment](rutherford-experiment.png "Expérience de Geiger et Marsden")  
+![Geiger Marsden experiment](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/rutherford-experiment.png "Geiger-Marsden experiment")  
 
 ---
 
@@ -151,7 +151,7 @@ Cela signifiait que presque toute la masse et la charge positive de l’atome
 
 Pour décrire la manière dont les particules alpha étaient déviées, il modélisa leurs trajectoires comme des **orbites hyperboliques**, et dériva la formule de l’**angle de diffusion** :  
 
-![Geometry of the model](rutherford-explanation.png "Géométrie du modèle")  
+![Geometry of the model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/rutherford-explanation.png "Geometry of the model")  
 $$\theta = 2~arctan\left(\frac{r_{min}}{2b}\right) = 2~arctan\left(\frac{1}{4\pi\epsilon_{0}} \frac{q_{\alpha}q_{Z}}{2bE_{\alpha}}\right)$$  
 
 où :  
@@ -169,7 +169,7 @@ celle d’un atome dont le véritable cœur, le **noyau**, venait enfin d’êtr
 La différence essentielle entre le **modèle de Thomson** et celui de **Rutherford** se trouve dans la manière dont les particules sont déviées.  
 Pour comprendre pourquoi certaines particules alpha rebondissaient vers l’arrière, il faut observer le comportement de l’angle de diffusion.  
 
-![Geometry of scattering](scattering-geometry.png "Géométrie de la diffusion")
+![Geometry of scattering](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/scattering-geometry.png "Geometry of scattering")  
 
 Rutherford décrivit la **section efficace différentielle**, qui indique la probabilité qu’une particule soit diffusée selon un angle donné :  
 
@@ -216,7 +216,7 @@ De là naquit une idée révolutionnaire :
 > L’atome ressemble à un minuscule système solaire.  
 > Les électrons, porteurs de charge négative, **orbitent** autour d’un noyau positif — tout comme les planètes gravitent autour d’une étoile.  
 
-![Rutherford's model](rutherford-model.jpg "Modèle de Rutherford")
+![Rutherford's model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/rutherford-model.jpg "Rutherford's model")
 
 ---
 
@@ -227,7 +227,7 @@ et selon les lois de l’électromagnétisme, une charge accélérée **émet un
 Cela signifie que les électrons devraient en spirale se rapprocher du noyau,  
 provoquant l’**effondrement total** de l’atome en une infime fraction de seconde !  
 
-![collapsing atom](atom-collapse.jpg "Le modèle de Rutherford s’effondrerait")
+![collapsing atom](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/atom-collapse.jpg "Rutherford's model will be collapsed")
 
 Alors… comment les atomes peuvent-ils rester stables ?  
 Cette question — si simple, et pourtant si profonde — allait ouvrir un nouveau chapitre de la physique :  
@@ -250,7 +250,8 @@ Mais… les expériences racontaient une toute autre histoire.
 
 Commençons donc par l’atome le plus simple de tous — l’**hydrogène**.  
 
-![Hydrogen spectra](hydrogen-spectra.png "Spectres de l'hydrogène")
+![Hydrogen spectra](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/hydrogen-spectra.png "Spectral lines of hydrogen in visible light range")
+
 
 L’hydrogène émet quatre raies visibles très marquées :  
 <span style="color: #ffffff; background-color: #ff0000;">**656.3 nm**</span>, <span style="color: #000000; background-color: #00ceff;">**486.1 nm**</span>, <span style="color: #ffffff; background-color: #1400ff;">**434.0 nm**</span>, and <span style="color: #ffffff; background-color: #6500ff;">**410.2 nm**</span>.  
@@ -339,21 +340,9 @@ Fait intéressant : l’idée d’associer le moment angulaire à des orbites qu
 ---
 
 En utilisant la **mécanique classique**, Bohr déduisit le rayon et l’énergie de chaque orbite.  
-> Rappelons que :  
-> L’électron porte une charge de $-e_{0}$, tandis que le noyau possède une charge $+Ze_{0}$.  
-> Pour un électron en orbite, la **force d’attraction coulombienne** doit compenser la **force centrifuge** :  
-> $$\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r^{2}}=\frac{mv^{2}}{r}$$  
-> D’après la relation du moment angulaire, on a :  
-> $$v=\frac{nh}{2\pi mr}$$  
-> En remplaçant et en résolvant pour $r$, on obtient :  
-> $$r=\frac{n^{2}h^{2}\epsilon_{0}}{\pi Ze_{0}^{2}m}$$  
-Ensuite, pour l’**énergie totale** de l’électron :  
-> L’énergie cinétique est $E_{k} = \frac{1}{2} m v^{2}$,  
-> et l’énergie potentielle est $U = -\frac{1}{4\pi\epsilon_{0}} \frac{Z e_{0}^{2}}{r}$.  
-> En les combinant :  
-> $$E-E_{k}+U=\frac{1}{2}mv^{2}-\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$$  
-> En substituant les expressions de $r$ et $v$, on trouve :  
-> $$E=-\frac{mZ^{2}e_{0}^{4}}{8\epsilon_{0}^{2}n^{2}h^{2}}$$  
+
+$$r=\frac{n^{2}h^{2}\epsilon_{0}}{\pi Ze_{0}^{2}m}$$  
+$$E=-\frac{mZ^{2}e_{0}^{4}}{8\epsilon_{0}^{2}n^{2}h^{2}}$$  
 où  
 
 * $m$ est la **masse de l’électron** ($9{,}109\times10^{-31}~kg$),  
@@ -361,7 +350,7 @@ où
 
 Ainsi, l’électron ne peut exister que sur des orbites bien déterminées — chacune possédant une énergie quantifiée propre.  
 Lorsqu’un électron passe d’une orbite à une autre, il absorbe ou émet un **photon** correspondant à la différence d’énergie.  
-![Bohr model](bohr-model.png "Bohr model")  
+![Bohr model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/bohr-model.png "Bohr model")  
 
 À partir de là, Bohr relia élégamment son modèle à la formule de Rydberg :  
 $$\frac{1}{\lambda}=R_{\infty}Z^{2}(\frac{1}{n_{1}^{2}}-\frac{1}{n_{2}^{2}}),~R_{\infty}=\frac{m_{e}e_{0}^{4}}{8\epsilon_{0}^{2}h^{3}c}$$  
@@ -389,10 +378,10 @@ les raies spectrales, autrefois simples, se **divisaient** en plusieurs composan
 Cette division s’appelait l’**effet Stark** lorsqu’elle était causée par un champ électrique,  
 et l’**effet Zeeman** lorsqu’elle provenait d’un champ magnétique.  
 
-![Stark effect for hydrogen](stark-effect.png "Stark effect for hydrogen")  
+![Stark effect for hydrogen](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/stark-effect.png "Stark effect for hydrogen")  
 *Effet Stark pour l’hydrogène*  
 
-![Zeeman effect for Rb-87](zeeman-effect.png "Zeeman effect for Rb-87")  
+![Zeeman effect for Rb-87](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/zeeman-effect.png "Zeeman effect for Rb-87")  
 *Effet Zeeman pour le rubidium-87*  
 
 Pour expliquer ces phénomènes délicats, **Arnold Sommerfeld**, avec **Alfred Landé**, étendirent la théorie de Bohr.
@@ -487,7 +476,7 @@ mais l’univers, lui, en a révélé la vérité.
 ### La Preuve
 
 En 1927, **Clinton Davisson** et **Lester Germer**, puis indépendamment **George P. Thomson**, réalisèrent des expériences montrant que les électrons peuvent **interférer avec eux-mêmes**, tout comme les ondes lumineuses !  
-![electron-interference](electron-interference.png "Electron can interfere")  
+![electron-interference](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/electron-interference.png "Electron can interfere")  
 
 *Les électrons se comportant comme des ondes, formant des figures d’interférence.*  
 
@@ -543,7 +532,7 @@ Grâce au neutron, on comprit enfin les **isotopes** — ces versions d’un mê
 
 Aujourd’hui, le modèle atomique forme une image splendide :  
 un noyau dense **de protons et de neutrons** en son centre, entouré d’un **nuage d’électrons**, un voile probabiliste qui danse autour.  
-![electron cloud model](electron-cloud-model.png "Electron cloud model is recognized today")  
+![electron cloud model](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/electron-cloud-model.png "Electron cloud model is recognised today")  
 
 ---
 
@@ -594,11 +583,11 @@ Pour bien comprendre ce phénomène, il nous faut quelques idées clés (que nou
 * Henry Moseley a découvert que la périodicité dépend du **numéro atomique** (le nombre de protons), et non simplement de la masse atomique.  
 * Après l’effet Zeeman, les raies spectrales se séparent dans un champ magnétique intense, révélant **deux états de spin** pour chaque $m$.  
 * Le principe d’exclusion de Pauli nous dit que deux électrons ne peuvent pas occuper le **même état quantique**.  
-* Le principe de Aufbau explique comment les électrons remplissent les orbitales, du **niveau le plus bas** vers le **plus haut en énergie**.  
+* La règle de Klechkowski (le principe d'Aufbau) explique comment les électrons remplissent les orbitales, du **niveau le plus bas** vers le **plus haut en énergie**.  
 * Pour les atomes à plusieurs électrons, l’ordre des niveaux d’énergie est :  
   $1s→2s→2p→3s→3p→4s→3d→4p→5s→4d→5p→6s→4f→5d→6p→\cdots$  
 
-![periodic table](periodic-table.png "alkali metals in periodic table")  
+![periodic table](https://gcore.jsdelivr.net/gh/chemmasterynahida/assets/common/atomic-model/periodic-table.png "alkali metals in periodic table")  
 En appliquant ces idées, un motif fascinant apparaît :  
 
 * Le premier électron **2s** apparaît au 3ᵉ élément,  
@@ -611,6 +600,25 @@ Ce sont les **métaux alcalins** : Li, Na, K, Rb, Cs…
 Ils partagent des **propriétés chimiques semblables**, car ils ont tous **le même nombre d’électrons de valence**.  
 
 Nous approfondirons ce sujet quand nous parlerons des **atomes à plusieurs électrons**.  
+
+## La dérivation de le modèle atomique de Bohr
+
+En utilisant la **mécanique classique**.  
+> Rappelons que :  
+> L’électron porte une charge de $-e_{0}$, tandis que le noyau possède une charge $+Ze_{0}$.  
+> Pour un électron en orbite, la **force d’attraction coulombienne** doit compenser la **force centrifuge** :  
+> $$\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r^{2}}=\frac{mv^{2}}{r}$$  
+> D’après la relation du moment angulaire, on a :  
+> $$v=\frac{nh}{2\pi mr}$$  
+> En remplaçant et en résolvant pour $r$, on obtient :  
+> $$r=\frac{n^{2}h^{2}\epsilon_{0}}{\pi Ze_{0}^{2}m}$$  
+Ensuite, pour l’**énergie totale** de l’électron :  
+> L’énergie cinétique est $E_{k} = \frac{1}{2} m v^{2}$,  
+> et l’énergie potentielle est $U = -\frac{1}{4\pi\epsilon_{0}} \frac{Z e_{0}^{2}}{r}$.  
+> En les combinant :  
+> $$E-E_{k}+U=\frac{1}{2}mv^{2}-\frac{1}{4\pi\epsilon_{0}}\frac{Ze_{0}^{2}}{r}$$  
+> En substituant les expressions de $r$ et $v$, on trouve :  
+> $$E=-\frac{mZ^{2}e_{0}^{4}}{8\epsilon_{0}^{2}n^{2}h^{2}}$$  
 
 ## La dérivation de l’onde de matière de De Broglie
 
@@ -646,7 +654,7 @@ $$\lambda=\frac{h}{p}$$
 > $$dk=\frac{2\pi mc}{h(1-\beta^{2})^{3/2}}d\beta$$  
 > Donc, la vitesse de groupe est simplement :  
 > $$v_{g}=\frac{d\omega}{dk}=\beta c=v$$  
-> C’est exactement la **vitesse de la particule elle-même**, nous rappelant que **la masse est une forme d’énergie** ($E = mc^{2}$).  
+> C’est exactement la **vitesse de la particule elle-même**.  
 
 ## Références
 
