@@ -601,7 +601,7 @@ Ils partagent des **propriétés chimiques semblables**, car ils ont tous **le m
 
 Nous approfondirons ce sujet quand nous parlerons des **atomes à plusieurs électrons**.  
 
-## La dérivation de le modèle atomique de Bohr
+## La dérivation du modèle atomique de Bohr
 
 En utilisant la **mécanique classique**.  
 > Rappelons que :  

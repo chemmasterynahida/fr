@@ -130,47 +130,6 @@ Voyons maintenant comment l’équation de Planck relie ces deux lois.
 En intégrant la loi de Planck sur toutes les fréquences, on obtient l’énergie totale émise.  
 On peut également en tirer un rayonnement de surface.  
 
-**Loi de Stefan–Boltzmann**  
-$$M=\sigma T^{4}=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}T^{4}$$  
-$$\sigma=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}=5.67\times10^{-8}~W/m^{2}\cdot K^{4}$$  
-
-Et en effet, la constante $\sigma$ correspond parfaitement aux résultats expérimentaux ~  
-
-### Loi du déplacement de Wien
-
-La loi du déplacement de Wien décrit la longueur d’onde (ou la fréquence) à laquelle le rayonnement est maximal.  
-En trouvant la longueur d’onde où le rayonnement atteint son maximum, on obtient :  
-
-**Loi du déplacement de Wien**  
-$$\lambda_{pic}=\frac{b}{T}\approx\frac{hc}{4.9651kT}=\frac{2.90~mm/K}{T}$$  
-
-Ainsi, plus un objet est chaud, plus la longueur d’onde de sa lumière est courte — du rouge, vers le jaune, puis le blanc-bleu.  
-
-### $\nu \rightarrow 0$
-
-La loi de **Rayleigh–Jeans** décrit bien les résultats expérimentaux pour les basses fréquences.  
-Pour les petites valeurs de $\nu$, la loi de Planck doit tendre vers celle de Rayleigh–Jeans.  
-
-$$\lim_{\nu\rightarrow0}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu=\frac{8\pi kT\nu^{2}}{c^{3}}d\nu$$  
-
-Pour les faibles fréquences, la loi de Planck se réduit donc à la loi de Rayleigh–Jeans.  
-
-### $\nu \rightarrow \infty$
-
-La loi de **Wien** explique bien les résultats expérimentaux pour les hautes fréquences.  
-Pour les grandes valeurs de $\nu$, la loi de Planck doit tendre vers celle de Wien.  
-
-$$\lim_{\nu\rightarrow\infty}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu=\frac{8\pi h\nu^{3}}{c^{3}}\cdot e^{-h\nu/kT}d\nu=a\nu^{3}e^{-b\nu/T}$$  
-
-Ainsi, pour les hautes fréquences, la loi de Planck rejoint naturellement la loi de Wien.  
-
----
----
-
-## dérivations
-
-### Loi de Stefan–Boltzmann: dérivations
-
 > $$\int du=\int_{0}^{\infty}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu$$  
 > Posons $x=h\nu/kT$ et $dx=hd\nu/kT$ pour le calcul.  
 > $$\int_{0}^{\infty}\frac{8\pi k^{3}T^{3}}{h^{2}c^{3}}\cdot\frac{x^{3}}{e^{x}-1}\cdot\frac{kT}{h}dx$$  
@@ -183,7 +142,16 @@ Ainsi, pour les hautes fréquences, la loi de Planck rejoint naturellement la lo
 > On peut convertir l’énergie volumique en flux à la surface en multipliant par $c/4$.  
 > $$M=E\cdot\frac{c}{4}=\frac{8\pi^{5}k^{4}T^{4}}{15h^{3}c^{3}}\cdot\frac{c}{4}=\frac{2\pi^{5}k^{4}T^{4}}{15h^{3}c^{2}}=\sigma T^{4}$$  
 
-### Loi du déplacement de Wien: dérivations
+**Loi de Stefan–Boltzmann**  
+$$M=\sigma T^{4}=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}T^{4}$$  
+$$\sigma=\frac{2\pi^{5}k^{4}}{15h^{3}c^{2}}=5.67\times10^{-8}~W/m^{2}\cdot K^{4}$$  
+
+Et en effet, la constante $\sigma$ correspond parfaitement aux résultats expérimentaux ~  
+
+### Loi du déplacement de Wien
+
+La loi du déplacement de Wien décrit la longueur d’onde (ou la fréquence) à laquelle le rayonnement est maximal.  
+En trouvant la longueur d’onde où le rayonnement atteint son maximum, on obtient :  
 
 > $$\frac{d(du/d\lambda)}{d\lambda}=0$$  
 > La loi de Planck peut s’exprimer en fonction de la longueur d’onde :  
@@ -196,7 +164,15 @@ Ainsi, pour les hautes fréquences, la loi de Planck rejoint naturellement la lo
 > Ainsi, la relation devient :  
 > $$\lambda_{pic}=\frac{b}{T}\approx\frac{hc}{4.9651kT}=\frac{2.90~mm/K}{T}$$  
 
-### $\nu \rightarrow 0$: dérivations
+**Loi du déplacement de Wien**  
+$$\lambda_{pic}=\frac{b}{T}\approx\frac{hc}{4.9651kT}=\frac{2.90~mm/K}{T}$$  
+
+Ainsi, plus un objet est chaud, plus la longueur d’onde de sa lumière est courte — du rouge, vers le jaune, puis le blanc-bleu.  
+
+### $\nu \rightarrow 0$
+
+La loi de **Rayleigh–Jeans** décrit bien les résultats expérimentaux pour les basses fréquences.  
+Pour les petites valeurs de $\nu$, la loi de Planck doit tendre vers celle de Rayleigh–Jeans.  
 
 > $$\lim_{\nu\rightarrow0}du(\nu,T)=\lim_{\nu\rightarrow0}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu$$  
 > On sait que la limite suivante est vraie :  
@@ -204,11 +180,21 @@ Ainsi, pour les hautes fréquences, la loi de Planck rejoint naturellement la lo
 > Ainsi,  
 > $$\lim_{\nu\rightarrow0}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu=\frac{8\pi kT\nu^{2}}{c^{3}}d\nu$$  
 
-### $\nu \rightarrow \infty$: dérivations
+Pour les faibles fréquences, la loi de Planck se réduit donc à la loi de Rayleigh–Jeans.  
+
+### $\nu \rightarrow \infty$
+
+La loi de **Wien** explique bien les résultats expérimentaux pour les hautes fréquences.  
+Pour les grandes valeurs de $\nu$, la loi de Planck doit tendre vers celle de Wien.  
 
 > $$\lim_{\nu\rightarrow\infty}du(\nu,T)=\lim_{\nu\rightarrow\infty}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu$$  
 > Comme la fonction exponentielle croît très rapidement, on peut approcher $e^{h\nu/kT}-1$ par $e^{h\nu/kT}$.  
 > $$\lim_{\nu\rightarrow\infty}\frac{8\pi h\nu^{3}}{c^{3}}\cdot\frac{1}{e^{h\nu/kT}-1}d\nu=\frac{8\pi h\nu^{3}}{c^{3}}\cdot e^{-h\nu/kT}d\nu=a\nu^{3}e^{-b\nu/T}$$  
+
+Ainsi, pour les hautes fréquences, la loi de Planck rejoint naturellement la loi de Wien.  
+
+---
+---
 
 ## Idées et Aperçus de Planck
 
